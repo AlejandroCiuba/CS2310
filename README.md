@@ -2,7 +2,7 @@
 
 A starter repo for building and validating a personal portfolio webpage.
 
-![Pipeline Status](your-badge-url-here)
+![Pipeline Status](https://github.com/AlejandroCiuba/CS2310/actions/workflows/pipeline.yml/badge.svg)](https://github.com/AlejandroCiuba/CS2310/actions/workflows/pipeline.yml)
 
 ## Structure
 
